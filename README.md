@@ -1,4 +1,4 @@
-# Design-Patter-HeadFirst
+# Design-Pattern-HeadFirst
 
 ---
 
@@ -6,4 +6,6 @@
 - [ ] Strategy Pattern
 - [ ] Observer Pattern
 - [x] Decorator Pattern
-- [ ] Factory Pattern
+- [x] Factory Pattern
+  - Factory Method Pattern
+  - Abstract Factory Pattern
