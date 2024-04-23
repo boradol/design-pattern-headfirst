@@ -3,7 +3,7 @@
 ---
 
 ## Contents
-- [ ] Strategy Pattern
+- [x] Strategy Pattern
 - [ ] Observer Pattern
 - [x] Decorator Pattern
 - [x] Factory Pattern
