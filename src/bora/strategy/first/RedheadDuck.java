@@ -1,8 +1,5 @@
 package bora.strategy.first;
 
-import designpattern.strategy.second.Flyable;
-import designpattern.strategy.second.Quackable;
-
 public class RedheadDuck extends Duck{
     @Override
     void display() {
